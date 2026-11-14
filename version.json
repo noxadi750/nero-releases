@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "product": "NeroCaption v1",
   "updated_at": "2026-11-14",
-  "update_url": "https://github.com/unoxeo/nero-releases/releases/latest/download/nero_update.zip",
-  "model_url": "https://github.com/unoxeo/nero-releases/releases/latest/download/ggml-base.bin",
-  "model_url_mac": "https://github.com/unoxeo/nero-releases/releases/latest/download/ggml-base.bin",
+  "update_url": "https://github.com/noxadi750/nero-releases/releases/latest/download/nero_update.zip",
+  "model_url": "https://github.com/noxadi750/nero-releases/releases/latest/download/ggml-base.bin",
+  "model_url_mac": "https://github.com/noxadi750/nero-releases/releases/latest/download/ggml-base.bin",
   "release_notes": "Official NeroCaption v1 Release with AI speech engine and kinetic suite."
 }
